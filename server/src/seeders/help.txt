@@ -1,0 +1,3 @@
+Creating a seed:
+
+npx sequelize-cli seed:generate --name demo-user
